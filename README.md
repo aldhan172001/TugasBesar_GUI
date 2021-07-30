@@ -1,6 +1,3 @@
-# Program Money Changer Menggunakan Konsep OOP (Object Oriented Programming)
-[![fHPiDG.png](https://iili.io/fHPiDG.png)](https://freeimage.host/i/fHPiDG)
-
 # Anggota Kelompok :
 | NAMA | NIM | KELAS
 |--|--|--|
@@ -11,11 +8,15 @@
 Sebelum Menjalannkan Program Ini Di Python Anda Harus Menginstall Beberapa Installan Di Python 
 Berikut Nama Installanya : 
 
-*pip install Translator*
-*pip install pandas
+pip install Translator
+
+pip install pandas
+
 pip install PyQt5
+
 pip install googletrans
-pip install language*
+
+pip install language
 # Data Base :
 ![enter image description here](https://i.ibb.co/Z2nq8LL/db.jpg)
 # Demo Program :
