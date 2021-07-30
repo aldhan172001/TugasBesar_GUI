@@ -3,7 +3,7 @@
 # Anggota Kelompok :
 | NAMA | NIM | KELAS
 |--|--|--|
-| ISAD ZULKIFAR  | 19104040| 03 SE B
+| Irsyad ZULKIFAR  | 19104040| 03 SE B
 | ALDHAN TRI MAULANA  | 19104059 | 03 SE B
 | NIKE PRASETYO | 19104068 | 03 SE B
 # Requirements File
