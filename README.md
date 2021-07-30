@@ -10,9 +10,9 @@
 Sebelum Menjalannkan Program Ini Di Python Anda Harus Menginstall Beberapa Installan Di Python 
 Berikut Nama Installanya : 
 
-*pip install Translator*
+pip install Translator
 
-*pip install pandas
+pip install pandas
 
 pip install PyQt5
 
