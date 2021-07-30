@@ -7,7 +7,7 @@
 | ALDHAN TRI MAULANA  | 19104059 | 03 SE B
 | NIKE PRASETYO | 19104048 | 03 SE B
 # Requirements File
-Sebelum Menjalannkan Program Ini Di Python Anda Harus Menginstall Beberapa Installan Di Python 
+Jika inggin menjalankan program ini di python cmd harap install beberapa nama di bawah ini 
 Berikut Nama Installanya : 
 
 pip install Translator
