@@ -24,7 +24,7 @@ pip install language*
 ![enter image description here](https://i.ibb.co/Z2nq8LL/db.jpg)
 # Demo Program :
 
-![fH4oRs.gif](https://s6.gifyu.com/images/2021-07-30-09-11-07dc6fa4d17229c6b0.gif)
+![fH4oRs.gif](https://s6.gifyu.com/images/NEWd03abb72ab199145.gif)
 # PyQT5 Desain:
 ![enter image description here](https://i.ibb.co/JQVJ41N/Screenshot-4.png)
 
